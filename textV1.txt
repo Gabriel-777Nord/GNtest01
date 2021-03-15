@@ -1,6 +1,1 @@
-Hello
-halloj!
-
-Hejsan hoppsan!
-
-Tjena.
+Tjohej, det här dokummentet kan användas till att beskriva vad ni gjort.
